@@ -1,1 +1,1 @@
-# PC-Project
+# PC-Project (Individual)
